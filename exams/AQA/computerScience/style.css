@@ -79,20 +79,7 @@ h1, h3, p {
     left: 0; /* Slide in */
 }
 
-#images {
-    max-width: 100%;
-    max-height: 100%;
-    resize: both;
-}
-
-#buttons {
-    background-color: transparent;
+.buttons {
+    background-color: #575757;
     border: transparent;
-    flex-wrap: wrap;
-    text-wrap: wrap;
-}
-
-.buttonGroup {
-    display: flex;
-    justify-content: space-between;
 }
