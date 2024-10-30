@@ -83,6 +83,8 @@ h1, h3, p {
     background-color: transparent;
     background-image: none;
     border: transparent;
+    backface-visibility: hidden;
+    background: transparent;
 }
 
 .buttonGroup {
